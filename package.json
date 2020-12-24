@@ -32,8 +32,14 @@
     "trailingComma": "es5"
   },
   "name": "gofood",
+  "description": "Gofood wrapper",
   "author": "suriyadi",
+  "homepage": "https://github.com/suriyadi15/gofood",
   "module": "dist/gofood.esm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suriyadi15/gofood.git"
+  },
   "size-limit": [
     {
       "path": "dist/gofood.cjs.production.min.js",
